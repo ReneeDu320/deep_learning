@@ -12,3 +12,8 @@ notes for model implementation in Pytorch, Tensorflow, etc
 - [param initialize](https://github.com/ReneeDu320/deep_learning/blob/main/param_initialize.ipynb)
 - [optimizer](https://github.com/ReneeDu320/deep_learning/blob/main/optimizer.ipynb)
 
+## Module 3 CNN
+- [Basic Conv](https://github.com/ReneeDu320/deep_learning/blob/main/basic_conv.ipynb)
+- [Batach Norm](https://github.com/ReneeDu320/deep_learning/blob/main/batch_normalization.ipynb)
+- [VGG Deep Network](https://github.com/ReneeDu320/deep_learning/blob/main/vgg.ipynb)
+- [GoogLeNet](https://github.com/ReneeDu320/deep_learning/blob/main/googlenet.ipynb)
