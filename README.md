@@ -17,3 +17,5 @@ notes for model implementation in Pytorch, Tensorflow, etc
 - [Batach Norm](https://github.com/ReneeDu320/deep_learning/blob/main/batch_normalization.ipynb)
 - [VGG Deep Network](https://github.com/ReneeDu320/deep_learning/blob/main/vgg.ipynb)
 - [GoogLeNet](https://github.com/ReneeDu320/deep_learning/blob/main/googlenet.ipynb)
+- [ResNet](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch/blob/master/chapter4_CNN/resnet.ipynb)
+- [DenseNet](https://github.com/ReneeDu320/deep_learning/blob/main/densenet.ipynb)
